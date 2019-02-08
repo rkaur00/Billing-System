@@ -1,0 +1,19 @@
+[
+    {
+       "name":"Latte",
+       "price":4
+},
+    {
+        "name":"Chocolate",
+        "price":8
+    },
+    {
+        "name":"Vanilla",
+        "price":2
+    },
+        
+    {
+        "name":"Cappuccino",
+        "price":6
+    }
+]
